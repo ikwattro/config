@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Workflow
+metadata:
+  name: workflow-1
+spec:
+  label: Workflow 1
