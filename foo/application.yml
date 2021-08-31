@@ -1,2 +1,5 @@
 app:
   name: demo
+hume:
+  alerting:
+    enabled: true
