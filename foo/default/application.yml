@@ -1,5 +1,6 @@
 app:
   name: demo
+  hello: foo
 hume:
   alerting:
     enabled: true
